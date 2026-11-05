@@ -1,0 +1,1 @@
+本文件夹仅包含 Windows 桌面版源码及必需共用依赖。上传时选择本文件夹内部的内容，保持 apps、engine、packages 等目录结构；请勿上传之前包含所有平台的源码副本。网页上传需分批；建议使用 Git/GitHub Desktop。已有 Release 无需删除。源码需要开发环境，直接运行的程序仍从 Release 下载。
